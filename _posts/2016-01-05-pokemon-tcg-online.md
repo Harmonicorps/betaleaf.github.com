@@ -5,6 +5,7 @@ date: 2016-01-05 13:53
 author: BetaLeaf
 permalink: /:title
 categories: [Cameyo - Portable Apps and Games]
+tags: [Game,Download]
 ---
 
 <a href="https://online.cameyo.com/apps/635888631888786649/clientexe">Download Slim Client</a>: 3MB
