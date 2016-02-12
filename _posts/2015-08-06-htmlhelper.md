@@ -7,11 +7,13 @@ comments: true
 categories: [Utilities]
 tags: [Download]
 ---
-<div class="body"><a href="http://betaleaf.net/dl/HTMLHelper.exe"><strong>Download</strong> HTMLHelper</a>
-<a href="http://betaleaf.net/dl/HTMLHelper.au3?dl=1"><strong>Download</strong> Source</a>
-<blockquote>HTMLHelper is an AutoIt Script that binds hotkeys to frequently used HTML Tags.</blockquote>
-<strong>HTML Tags Implemented:</strong>
-a,b,code,cited,i,li,ol,blockquote,strong,u.
+[**Download** HTMLHelper](https://dl.dropboxusercontent.com/u/350004313/CDN/dl/HTMLHelper.exe)  
+[**Download** Source](https://dl.dropboxusercontent.com/u/350004313/CDN/dl/HTMLHelper.au3?dl=1)  
+
+###HTMLHelper is an AutoIt Script that binds hotkeys to frequently used HTML Tags.  
+
+**HTML Tags Implemented:**
+```a,b,code,cited,i,li,ol,blockquote,strong,u```  
 (Anchor, Bold, Code, Cited, Italics,List,Ordered List, Block Quotes, Strong, Underline)
 
 <strong>How to use:</strong>
@@ -25,4 +27,3 @@ Note: The A Tag has a special Function that makes use of the clipboard. Store yo
 <ul>
 	<li>Press CTRL &amp; Shift &amp; Z to empty the clipboard.</li>
 </ul>
-</div>

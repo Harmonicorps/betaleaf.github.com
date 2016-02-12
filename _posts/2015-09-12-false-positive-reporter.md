@@ -7,7 +7,8 @@ comments: true
 categories: [Utilities]
 tags: [Download]
 ---
-<h3>Quickly submit false positive reports to antivirus vendors for whitelisting.</h3>
-View the Project at GitHub: <a href="https://github.com/BetaLeaf/False-Positive-Reporter" target="_blank" rel="external nofollow">https://github.com/BetaLeaf/False-Positive-Reporter</a>
+###Quickly submit false positive reports to antivirus vendors for whitelisting.  
 
-Wiki: <a href="https://github.com/BetaLeaf/False-Positive-Reporter/wiki" target="_blank" rel="external nofollow">https://github.com/BetaLeaf/False-Positive-Reporter/wiki</a>
+View the Project at GitHub: [https://github.com/BetaLeaf/False-Positive-Reporter](https://github.com/BetaLeaf/False-Positive-Reporter)  
+
+Wiki: [https://github.com/BetaLeaf/False-Positive-Reporter/wiki](https://github.com/BetaLeaf/False-Positive-Reporter/wiki)  

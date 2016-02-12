@@ -7,42 +7,42 @@ comments: true
 categories: [Game Tools]
 tags: [GTA 5,Download]
 ---
-<div class="body">
-<div><a href="http://betaleaf.net/dl/GTAVHelper.exe"><strong>Download</strong> GTAVHelper</a>
-<a href="http://betaleaf.net/dl/GTAVHelper.zip"><strong>Download</strong> Source</a></div>
-<div></div>
-<div>
-<blockquote>GTAVHelper is an AutoIt Script that gives you access to various pre-existing functions at the press of a hotkey.</blockquote>
-<strong>Hotkey Features: </strong>
-<ul>
-	<li>Quickly Deposit all into bank.</li>
-	<li>Quickly Call contacts like the mechanic, Mor's Insurance, Pegasus and more.</li>
-	<li>Quickly Accept the Most Recent Job.</li>
-	<li>Find another Session, or Join a friend or crew session.</li>
-	<li>GTAV Online only</li>
-</ul>
-<strong>Automatic Features: </strong>
-<ul>
-	<li>Faster Respawn when you die.</li>
-	<li>AutoUpdating.</li>
-	<li>AutoStart and Stops when you start and stop GTAV (Needs Helper App to function)</li>
-</ul>
-<strong>How to Use:</strong>
-Extract into a separate folder and run the exe. The first run will install the necessary files in the current directory. Set the INI file, save, and then relaunch the exe. If you prefer to have GTAVHelper AutoLoad whenever you start GTAVHelper, launch LaunchWatcher.exe. To reinstall, simply delete the INI and relaunch GTAHelper.exe and it will re-extract everything.
+[**Download** GTAVHelper](http://dl.dropboxusercontent.com/u/350004313/CDN/dl/GTAVHelper.exe)  
+[**Download** Source](http://dl.dropboxusercontent.com/u/350004313/CDN/dl/GTAVHelper.zip)  
 
-<strong>How to Set the INI File:</strong>
-Example:
+GTAVHelper is an AutoIt Script that gives you access to various pre-existing functions at the press of a hotkey.  
 
-[keys]
-PassiveMode=^+&#123;space&#125;
-CancelAction=^+&#123;esc&#125;
+**Hotkey Features:**  
 
-In this Example, we can see that CancelAction is set to Control+Shift+Escape. When you press this key, GTAVHelper will stop any actively running command and idle until you press another hotkey. A Format Chart is below for your convenience.
+  - Quickly Deposit all into bank.  
+  - Quickly Call contacts like the mechanic, Mor's Insurance, Pegasus and more.  
+  - Quickly Accept the Most Recent Job.  
+  - Find another Session, or Join a friend or crew session.  
+  - GTAV Online only  
+
+**Automatic Features:**  
+
+  - Faster Respawn when you die.  
+  - AutoUpdating.  
+  - AutoStart and Stops when you start and stop GTAV (Needs Helper App to function)  
+
+**How to Use:**  
+Extract into a separate folder and run the exe. The first run will install the necessary files in the current directory. Set the INI file, save, and then relaunch the exe. If you prefer to have GTAVHelper AutoLoad whenever you start GTAVHelper, launch LaunchWatcher.exe. To reinstall, simply delete the INI and relaunch GTAHelper.exe and it will re-extract everything.  
+
+**How to Set the INI File:**  
+
+[keys]  
+PassiveMode=^+&#123;space&#125;  
+CancelAction=^+&#123;esc&#125;  
+
+In this Example, we can see that CancelAction is set to Control+Shift+Escape. When you press this key, GTAVHelper will stop any actively running command and idle until you press another hotkey.  
+
+A Format Chart is below for your convenience.  
 <table border="1">
 <tbody>
 <tr>
 <th><strong>
-<a href="http://betaleaf.net/Send.htm">What to put in the INI File</a>
+<a href="https://www.autoitscript.com/autoit3/docs/functions/Send.htm">What to put in the INI File</a>
 </strong></th>
 <th><strong>and the resulting keypress</strong></th>
 </tr>
@@ -360,5 +360,3 @@ In this Example, we can see that CancelAction is set to Control+Shift+Escape. Wh
 </tr>
 </tbody>
 </table>
-</div>
-</div>

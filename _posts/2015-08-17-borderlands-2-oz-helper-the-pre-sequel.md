@@ -7,14 +7,15 @@ comments: true
 categories: [Game Tools]
 tags: [Download]
 ---
-<a href="http://betaleaf.net/wp-content/uploads/2015/08/Borderlands-2-OZ-Helper.zip"><strong>Download:</strong> Borderlands 2 OZ Helper</a>
-<a href="http://betaleaf.net/wp-content/uploads/2015/08/Borderlands-2-OZ-Helper-Source.zip"><strong>Download:</strong> Source</a>
+[**Download:** Borderlands 2 OZ Helper](https://dl.dropboxusercontent.com/u/350004313/CDN/wp-content/uploads/2015/08/Borderlands-2-OZ-Helper.zip")  
+[**Download:** Source](https://dl.dropboxusercontent.com/u/350004313/CDN/wp-content/uploads/2015/08/Borderlands-2-OZ-Helper-Source.zip)  
 
-<strong>Features:</strong>
-Replenish all your ammo quickly by facing the ammo machine and pressing a hotkey. Default is Numpad2. (ReplenishAmmo)
+**Features:**  
+Replenish all your ammo quickly by facing the ammo machine and pressing a hotkey. Default is Numpad2. (ReplenishAmmo)  
 
-<strong>How to Set INI:</strong>
-The Ammo Category needs to be set to the max ammo of the respective gun. The Binds Category needs to be set to whatever key you want to press to perform the desired action.
+**How to Set INI:**  
+The Ammo Category needs to be set to the max ammo of the respective gun. The Binds Category needs to be set to whatever key you want to press to perform the desired action.  
+
 <div><strong>Default INI</strong></div>
 <div><span style="line-height: 1.5;">[Ammo]</span></div>
 <div><span style="line-height: 1.5;">Laser=1340</span></div>
@@ -26,12 +27,14 @@ The Ammo Category needs to be set to the max ammo of the respective gun. The Bin
 <div><span style="line-height: 1.5;">Sniper=132</span></div>
 <div><span style="line-height: 1.5;">Launcher=33</span></div>
 <div>[Binds]</div>
-<div><span style="line-height: 1.5;">ReplenishAmmo=&#123;numpad2&#125;</span></div>
+<div><span style="line-height: 1.5;">ReplenishAmmo=&#123;numpad2&#125;</span></div>  
+
+&nbsp;
 <table border="1">
 <tbody>
 <tr>
 <th><strong>
-<a href="http://betaleaf.net/Send.htm">What to put in the INI File</a>
+<a href="https://www.autoitscript.com/autoit3/docs/functions/Send.htm">What to put in the INI File</a>
 </strong></th>
 <th><strong>and the resulting keypress</strong></th>
 </tr>

@@ -7,16 +7,10 @@ comments: true
 categories: [Utilities]
 tags: [Download]
 ---
-CursorTimer is a simple timer that displays it's remaining time near your cursor. It beeps when its time has run out.
+CursorTimer is a simple timer that displays it's remaining time near your cursor. It beeps when its time has run out.  
 
-&nbsp;
+[**Download** CursorTimer](http://dl.dropboxusercontent.com/u/350004313/CDN/dl/CursorTimer.exe)  
 
-<strong>Download</strong> <a href="http://betaleaf.net/dl/CursorTimer.exe">CursorTimer</a>
+[**Download** Source](http://dl.dropboxusercontent.com/u/350004313/CDN/dl/CursorTimer.au3?dl=1")  
 
-<strong>Download</strong> <a href="http://betaleaf.net/dl/CursorTimer.au3?dl=1">Source</a>
-
-&nbsp;
-
-Comment below if you have any feedback or suggestions.
-
-&nbsp;
+Comment below if you have any feedback or suggestions.  
