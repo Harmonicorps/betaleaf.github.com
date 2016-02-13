@@ -10,7 +10,7 @@ tags: [Dota 2, Download]
 ---
 <iframe width="480" height="270" src="https://www.youtube.com/embed/VicXUZqsE4o?autoplay=1" frameborder="0" allowfullscreen></iframe>
 
-###Always get the Hero you want to play with this Dota 2 InstaPicker.(Formerly HeroSniper)  
+### Always get the Hero you want to play with this Dota 2 InstaPicker.(Formerly HeroSniper)  
 
 Simply run the program, type the hero's name in the box, and start searching for a game.  
 The moment character select becomes available, your hero will be automatically selected and confirmed.  
