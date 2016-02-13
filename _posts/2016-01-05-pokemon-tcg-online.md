@@ -16,7 +16,7 @@ tags: [Game,Download]
 
 ***
 
-<a href="https://betaleaf.net/cameyo-faq/" target="_blank">Frequently Asked Questions</a>
+<a href="https://betaleaf.net/cameyo-faq" target="_blank">Frequently Asked Questions</a>
 
 ***
 
@@ -30,8 +30,8 @@ You can download Card Cache from Settings &gt; Card Cache &gt; Download All. Doi
 
 ###### Notes: Sizes may change as the game is updated.  
 
-###### See FAQ for tips when using HTML5 Player(<a href="https://betaleaf.net/cameyo-faq/#UnstableHTML5" target="_blank">Click here</a>).  
-
 ###### Slim Client will run the game on remote Cameyo Secure Servers and thus will not degrade your computer's performance.  
+
+###### See FAQ for tips when using HTML5 Player.  
 
 [Update Log](/Pokemon-TCG-Online-Update-Log)

@@ -7,8 +7,8 @@ comments: true
 categories: [Game Tools]
 tags: [Download]
 ---
-[**Download:** Borderlands 2 OZ Helper](https://dl.dropboxusercontent.com/u/350004313/CDN/wp-content/uploads/2015/08/Borderlands-2-OZ-Helper.zip")  
-[**Download:** Source](https://dl.dropboxusercontent.com/u/350004313/CDN/wp-content/uploads/2015/08/Borderlands-2-OZ-Helper-Source.zip)  
+[**Download:** Borderlands 2 OZ Helper](https://dl.dropboxusercontent.com/u/350004313/CDN/dl/Borderlands-2-OZ-Helper.zip)  
+[**Download:** Source](https://dl.dropboxusercontent.com/u/350004313/CDN/dl/Borderlands-2-OZ-Helper-Source.zip)  
 
 **Features:**  
 Replenish all your ammo quickly by facing the ammo machine and pressing a hotkey. Default is Numpad2. (ReplenishAmmo)  
