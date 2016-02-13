@@ -18,7 +18,7 @@ GTAVHelper is an AutoIt Script that gives you access to various pre-existing fun
   - Quickly Call contacts like the mechanic, Mor's Insurance, Pegasus and more.  
   - Quickly Accept the Most Recent Job.  
   - Find another Session, or Join a friend or crew session.  
-  - GTAV Online only  
+  - GTAV Online only.  
 
 **Automatic Features:**  
 
