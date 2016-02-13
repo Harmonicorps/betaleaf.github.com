@@ -6,7 +6,7 @@ author: BetaLeaf
 comments: true
 categories: [Game Tools]
 tags: [Dota 2, Download]
-
+/permalink: /Dota-InstaPicker
 ---
 <iframe width="480" height="270" src="https://www.youtube.com/embed/VicXUZqsE4o?autoplay=1" frameborder="0" allowfullscreen></iframe>
 
