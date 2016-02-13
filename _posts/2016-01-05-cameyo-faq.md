@@ -36,7 +36,7 @@ If you have the Cameyo App downloaded, run it and select Cameyo Player to access
 This will run the app on Cameyo's Secure Servers. Free accounts are limited to 15 minute sessions. Paid accounts are limited to 90 minute sessions. You can create your own secure server that allows for unlimited session time. You will need to be able to run (or have someone host for you) a Virtual Machine with a minimum of 1 Mb/s Upload Rate and specs to match the app you wish to run. [Read More...](https://online.cameyo.com/playservers/add)  
 
 ---
-<Div name="UnstableHTML5">**Q. The Virtual App is unstable when Executed in Browser and often crashes. What can I do to fix this?**  
+**Q. The Virtual App is unstable when Executed in Browser and often crashes. What can I do to fix this?**  
 
 **A.** Try reducing the quality setting for the game. Alternatively, downloading Cameyo app and selecting Cameyo Player will allow you to run the app without having to download it. It will seamlessly looks like a normal application on your computer's task bar. This counts as running the app on Cameyo's Secure Servers and you will be subjected to their time limit, unless you run your own server.  
 
