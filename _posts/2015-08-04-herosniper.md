@@ -22,4 +22,6 @@ The moment character select becomes available, your hero will be automatically s
   - Works on the Arcade.(Custom Game Modes)  
 
 [**Download** Hero Sniper](https://dl.dropboxusercontent.com/u/350004313/CDN/dl/HeroSniper.exe)  
-[**Download** Source](https://dl.dropboxusercontent.com/u/350004313/CDN/dl/HeroSniper.au3?dl=1)
+[**Download** Source](https://dl.dropboxusercontent.com/u/350004313/CDN/dl/HeroSniper.au3?dl=1)  
+
+**Like my software? Let others know by commenting. It would be greatly appreciated.**
