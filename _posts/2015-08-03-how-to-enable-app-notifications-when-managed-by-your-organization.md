@@ -6,6 +6,7 @@ author: BetaLeaf
 comments: true
 categories: [Tutorials]
 tags: [Fix, Windows 10]
+permalink: /how-to-enable-app-notifications-when-managed-by-your-organization/
 ---
 1. Download and Open the Registry Key to Import. [Click Here to Download](https://dl.dropboxusercontent.com/u/350004313/cdn/dl/appnotification.reg?dl=1")
 2. Click Yes. (See Images)
