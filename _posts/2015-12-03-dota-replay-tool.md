@@ -6,8 +6,8 @@ author: BetaLeaf
 comments: true
 categories: [Game Tools]
 tags: [Download]
----
-##A tool to move Replay Files to the proper folder.  
+---  
+## A tool to move Replay Files to the proper folder.  
 Feature List:  
 
   - Batch Move (via Drag-n-Drop).  
