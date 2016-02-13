@@ -6,7 +6,7 @@ author: BetaLeaf
 comments: true
 categories: [Game Tools]
 tags: [Dota 2, Download]
-/permalink: /Dota-InstaPicker
+permalink: /Dota-InstaPicker
 ---
 <iframe width="480" height="270" src="https://www.youtube.com/embed/VicXUZqsE4o?autoplay=1" frameborder="0" allowfullscreen></iframe>
 
@@ -22,4 +22,4 @@ The moment character select becomes available, your hero will be automatically s
   - Works on the Arcade.(Custom Game Modes)  
 
 [**Download** Hero Sniper](https://dl.dropboxusercontent.com/u/350004313/CDN/dl/HeroSniper.exe)  
-[**Download** Source](https://dl.dropboxusercontent.com/u/350004313/CDN/dl/HeroSniper.au3)
+[**Download** Source](https://dl.dropboxusercontent.com/u/350004313/CDN/dl/HeroSniper.au3?dl=1)
