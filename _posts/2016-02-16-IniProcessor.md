@@ -14,8 +14,9 @@ tags: [Download]
 3. Select the Destination Ini. The Values from this file will be overwritten from the values read from the Source Ini.  
 4. Wait for a ```Done.``` message to appear.  
 
-[**Download** IniProcessor](https://github.com/BetaLeaf/IniProcessor/blob/master/IniProcessor.exe?raw=true)  
+---
 
-[View the Source Code on GitHub](https://github.com/BetaLeaf/IniProcessor/)  
+  - [**Download** Randomly](https://github.com/BetaLeaf/IniProcessor/blob/master/IniProcessor.exe?raw=true)  
+  - View the [Source Code](https://github.com/BetaLeaf/IniProcessor/blob/master/IniProcessor.au3) or [Project](https://github.com/BetaLeaf/IniProcessor/) on GitHub.
 
-**Like my software? Let others know by commenting. It would be greatly appreciated.**
+**Like my software? Let others know by commenting. It would be greatly appreciated.**  

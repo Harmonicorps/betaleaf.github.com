@@ -7,27 +7,33 @@ comments: true
 categories: [Game Tools]
 tags: [Download]
 ---
-[**Download:** Borderlands 2 OZ Helper](https://dl.dropboxusercontent.com/u/350004313/CDN/dl/Borderlands-2-OZ-Helper.zip)  
-[**Download:** Source](https://dl.dropboxusercontent.com/u/350004313/CDN/dl/Borderlands-2-OZ-Helper-Source.zip)  
-
 **Features:**  
 Replenish all your ammo quickly by facing the ammo machine and pressing a hotkey. Default is Numpad2. (ReplenishAmmo)  
+
+---
+
+  - [**Download** Borderlands 2 OZ Helper](https://github.com/BetaLeaf/Borderlands-2-OZ-Helper/blob/master/Borderlands%202%20OZ%20Helper.exe?raw=true)  
+  - View the [Source Code](https://github.com/BetaLeaf/Borderlands-2-OZ-Helper/blob/master/Borderlands%202%20OZ%20Helper.au3) or [Project](https://github.com/BetaLeaf/Borderlands-2-OZ-Helper) on GitHub.
+
+**Like my software? Let others know by commenting. It would be greatly appreciated.**  
+
+---
 
 **How to Set INI:**  
 The Ammo Category needs to be set to the max ammo of the respective gun. The Binds Category needs to be set to whatever key you want to press to perform the desired action.  
 
-<div><strong>Default INI</strong></div>
-<div><span style="line-height: 1.5;">[Ammo]</span></div>
-<div><span style="line-height: 1.5;">Laser=1340</span></div>
-<div><span style="line-height: 1.5;">Grenades=10</span></div>
-<div><span style="line-height: 1.5;">Pistol=900</span></div>
-<div><span style="line-height: 1.5;">Assault=1260</span></div>
-<div><span style="line-height: 1.5;">Shotgun=220</span></div>
-<div><span style="line-height: 1.5;">SMG=1620</span></div>
-<div><span style="line-height: 1.5;">Sniper=132</span></div>
-<div><span style="line-height: 1.5;">Launcher=33</span></div>
-<div>[Binds]</div>
-<div><span style="line-height: 1.5;">ReplenishAmmo=&#123;numpad2&#125;</span></div>  
+**Default INI:**  
+```[Ammo]```  
+```Laser=1340```  
+```Grenades=10```  
+```Pistol=900```  
+```Assault=1260```  
+```Shotgun=220```  
+```SMG=1620```  
+```Sniper=132```  
+```Launcher=33```  
+```[Binds]```  
+```ReplenishAmmo={numpad2}```  
 
 &nbsp;
 <table border="1">

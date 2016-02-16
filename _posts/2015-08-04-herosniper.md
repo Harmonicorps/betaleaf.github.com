@@ -21,7 +21,9 @@ The moment character select becomes available, your hero will be automatically s
   - Works at any Windowed Mode or Borderless Resolution.(Untested at uncommon resolutions)  
   - Works on the Arcade.(Custom Game Modes)  
 
-[**Download** InstaPicker](https://dl.dropboxusercontent.com/u/350004313/CDN/dl/InstaPicker.exe)  
-[**Download** Source](https://dl.dropboxusercontent.com/u/350004313/CDN/dl/InstaPicker.au3?dl=1)  
+ ---
 
-**Like my software? Let others know by commenting. It would be greatly appreciated.**
+  - [**Download** InstaPicker](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/InstaPicker.exe?raw=true)  
+  - View the [Source Code](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/InstaPicker.au3) or [Project](https://github.com/BetaLeaf/Dota-2-Game-Tools) on GitHub.
+
+**Like my software? Let others know by commenting. It would be greatly appreciated.**  

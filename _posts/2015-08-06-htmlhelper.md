@@ -7,9 +7,6 @@ comments: true
 categories: [Utilities]
 tags: [Download]
 ---
-[**Download** HTMLHelper](https://dl.dropboxusercontent.com/u/350004313/CDN/dl/HTMLHelper.exe)  
-[**Download** Source](https://dl.dropboxusercontent.com/u/350004313/CDN/dl/HTMLHelper.au3?dl=1)  
-
 ### HTMLHelper is an AutoIt Script that binds hotkeys to frequently used HTML Tags.  
 
 **HTML Tags Implemented:**  
@@ -26,3 +23,10 @@ Note: The A Tag has a special Function that makes use of the clipboard. Store yo
 **Additional Features:**  
 
   - Press CTRL &amp; Shift &amp; Z to empty the clipboard.  
+
+---
+
+  - [**Download** HTMLHelper](https://github.com/BetaLeaf/HTMLHelper/blob/master/HTMLHelper.exe?raw=true)  
+  - View the [Source Code](https://github.com/BetaLeaf/HTMLHelper/blob/master/HTMLHelper.au3) or [Project](https://github.com/BetaLeaf/HTMLHelper) on GitHub.
+
+**Like my software? Let others know by commenting. It would be greatly appreciated.**  

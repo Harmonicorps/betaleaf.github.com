@@ -14,10 +14,9 @@ Feature List:
   - Download from URL directly to Replay Folder.  
   - When downloading from URL, user will be asked if they want to watch after they are done downloading.  
 
-Please report any issues you find. I will be more than happy to fix them if I can.  
+---
 
-[**Download** DotaReplayTool](https://www.dropbox.com/s/xw3w0n5dv4ioog4/DotaReplayTool.exe?dl=1)  
+  - [**Download** DotaReplayTool](https://github.com/BetaLeaf/DotaReplayTool/blob/master/DotaReplayTool.exe?raw=true)  
+  - View the [Source Code](https://github.com/BetaLeaf/DotaReplayTool/blob/master/DotaReplayTool.au3) or [Project](https://github.com/BetaLeaf/DotaReplayTool) on GitHub.
 
-[**Download** Source](https://www.dropbox.com/s/cf95i2q4v1gfv02/DotaReplayTool.au3?dl=1)  
-
-[https://github.com/BetaLeaf/DotaReplayTool](https://github.com/BetaLeaf/DotaReplayTool)  
+**Like my software? Let others know by commenting. It would be greatly appreciated.**  

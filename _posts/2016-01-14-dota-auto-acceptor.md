@@ -15,11 +15,11 @@ This is a simple tool that automatically accepts the game when dota manages to f
   - Works at any Windowed Mode or Borderless Resolution. **Fullscreen Mode not supported.**  
   - Works on the Arcade.(Custom Game Modes)  
 
-[**Download** AutoAcceptor](https://dl.dropboxusercontent.com/u/350004313/CDN/dl/AutoAcceptor.exe)  
-[**Download** Source](https://dl.dropboxusercontent.com/u/350004313/CDN/dl/AutoAcceptor.zip)  
-
 Notes: Do not have your mouse hover over where the accept and decline buttons will appear. This changes the color of the buttons and will cause the script to not function because it cannot detect the color it is expecting. Also, using the Dota 2 Setting **"Bring to foreground when match found"** will allow you to auto accept games, even if you have alt tabbed out of Dota 2. **[Window Scale must be 100%](../i/K6nep4m.jpg)**.  
 
-**Like my software? Let others know by commenting. It would be greatly appreciated.**  
+  ---
 
-[Update Log](/dota-auto-acceptor-Update-Log)
+  - [**Download** AutoAcceptor](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/AutoAcceptor.exe?raw=true)  
+  - View the [Source Code](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/AutoAcceptor.au3) or [Project](https://github.com/BetaLeaf/Dota-2-Game-Tools) on GitHub.
+
+**Like my software? Let others know by commenting. It would be greatly appreciated.**  

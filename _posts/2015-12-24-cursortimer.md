@@ -9,8 +9,9 @@ tags: [Download]
 ---
 CursorTimer is a simple timer that displays it's remaining time near your cursor. It beeps when its time has run out.  
 
-[**Download** CursorTimer](http://dl.dropboxusercontent.com/u/350004313/CDN/dl/CursorTimer.exe)  
+---
 
-[**Download** Source](http://dl.dropboxusercontent.com/u/350004313/CDN/dl/CursorTimer.au3?dl=1")  
+  - [**Download** CursorTimer](https://github.com/BetaLeaf/CursorTimer/blob/master/CursorTimer.exe?raw=true)  
+  - View the [Source Code](https://github.com/BetaLeaf/CursorTimer/blob/master/CursorTimer.au3) or [Project](https://github.com/BetaLeaf/CursorTimer) on GitHub.
 
-Comment below if you have any feedback or suggestions.  
+**Like my software? Let others know by commenting. It would be greatly appreciated.**  
