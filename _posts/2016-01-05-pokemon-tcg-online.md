@@ -10,7 +10,7 @@ tags: [Game,Download]
 
 <a href="https://online.cameyo.com/apps/635888631888786649/clientexe">Download Slim Client</a>: 3MB
 
-<a href="https://dl.dropboxusercontent.com/u/350004313/CDN/dl/cameyo/Pokemon TCG Online.cameyo.exe" target="_blank">Download Full Client</a>: 445MB 
+<a href="https://online.cameyo.com/apps/635888631888786649/download">Download Full Client</a>: 445MB 
 
 <a href="https://online.cameyo.com/apps/635888631888786649/play" target="_blank">Play in Browser</a> (Html5 required) (**Unstable**)
 
