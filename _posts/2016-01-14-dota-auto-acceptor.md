@@ -5,7 +5,7 @@ date: 2016-01-14 11:10
 author: BetaLeaf
 comments: true
 categories: [Game Tools]
-tags: [Download]
+tags: [Dota 2,Download]
 ---
 <iframe src="https://www.youtube.com/embed/KQzyCS31Zg0?autoplay=1" width="480" height="270" frameborder="0" allowfullscreen="allowfullscreen"></iframe>  
 
