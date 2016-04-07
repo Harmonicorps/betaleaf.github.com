@@ -13,7 +13,7 @@ permalink: /how-to-enable-app-notifications-when-managed-by-your-organization/
 3. Shutdown and reboot your computer.
 
 **Images:**  
-2. ![Screenshot](../i/42wx5JC.png)
+2. ![Screenshot](../I/42wx5JC.png)
 
 <strong>Keys to Import:</strong>  
 ```[HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\CurrentVersion\PushNotifications]```  
