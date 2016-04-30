@@ -14,7 +14,7 @@ permalink: /SoundBoard
 1. Download and run [SoundBoard](https://github.com/BetaLeaf/SoundBoard/raw/master/SoundBoard.exe).  
 2. On first launch, a sample INI will be created in the same folder you saved SoundBoard to.
 3. Configure this INI to suite your needs, save it, and restart SoundBoard.  
-4. Press the hotkey and enjoy.  
+4. Press the [hotkey](https://www.autoitscript.com/autoit3/docs/functions/Send.htm) and enjoy.  
 5. To close SoundBoard, find the icon in the tray and Right Click > Exit  
 
 **Uses**  
