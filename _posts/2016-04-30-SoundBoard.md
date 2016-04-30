@@ -19,7 +19,7 @@ permalink: /SoundBoard
 
 **Uses**  
 
-  * Use it during your live-stream to hype the croud. My personal favorite is to play the space jam theme right after winning the game or after a teamfight when you pull off an awesome combo/ultimate ability. Great for creating hype moments.  
+  * Use it during your live-stream to hype the crowd. My personal favorite is to play the space jam theme right after winning the game or after a teamfight when you pull off an awesome combo/ultimate ability.  
   * Use it to annoy your enemies by using a Loopback and playing something like the Troll Song, Rick Roll, or John Cena's Theme in multiplayer games.  
   * Use it to play any song you want at the click of a button. Sorta basic yea, but it beats manually going to your music folder and double clicking the song you want to play every 3-5 minutes while you are in a game.  
 
