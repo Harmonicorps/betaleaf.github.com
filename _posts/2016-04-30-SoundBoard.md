@@ -38,6 +38,8 @@ permalink: /SoundBoard
   ```EndTime="34"```  
   ```PlaybackDevice="Microsoft Soundmapper"```  
 
+  You can add a new entry by copy pasting this into the bottom of your INI. Do not change the order found above and make sure to use a unique name for the section name, [Sound1].
+
 ---
 
 **Like my software? Let others know by commenting. It would be greatly appreciated.**  
