@@ -9,8 +9,7 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://betaleaf.github.io/
-baseurl: /
+url: https://betaleaf.net
 title: BetaLeaf
 author: BetaLeaf
 description: Personal blog
@@ -18,7 +17,6 @@ avatar: Avatar.png
 email: BetaLeaf@gmail.com
 github: BetaLeaf
 twitter: BetaLeafNet
-stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
 disqus: betaleafnet
 google_analytics: UA-69391421-1
