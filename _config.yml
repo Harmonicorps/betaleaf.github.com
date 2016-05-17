@@ -22,7 +22,7 @@ steam: BetaLeaf
 
 #Comment out if you don't want disqus 
 disqus: betaleafnet
-google_analytics: UA-69391421-1
+google_analytics: UA-77915524-1
 
 
 # needed for travis-ci build
