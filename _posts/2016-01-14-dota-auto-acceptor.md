@@ -19,7 +19,7 @@ Notes: Do not have your mouse hover over where the accept and decline buttons wi
 
   ---
 
-  - <i class="fa fa-download">[**Download** AutoAcceptor](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/AutoAcceptor.exe?raw=true)</i>  
-  - View the [Source Code](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/AutoAcceptor.au3) or [Project](https://github.com/BetaLeaf/Dota-2-Game-Tools) on GitHub.
+  - <i class="fa fa-download"> [**Download AutoAcceptor**](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/AutoAcceptor.exe?raw=true)</i>  
+  - View the <i class="fa fa-file-text"></i> [Source Code](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/AutoAcceptor.au3) or [Project](https://github.com/BetaLeaf/Dota-2-Game-Tools) on GitHub.
 
 **Like my software? Let others know by commenting. It would be greatly appreciated.**  
