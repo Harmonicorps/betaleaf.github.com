@@ -11,16 +11,15 @@ tags: [Dota 2,Download]
 
 This is a simple tool that automatically accepts the game when dota manages to find one.  
 
-  - Press F7 to toggle On and Off. Beeps twice when on. Beeps once when off.  
+  - Starts enabled. Press F7 to <i class="fa fa-toggle-on"/>toggle On/Off. Beeps twice when on. Beeps once when off.  
   - Works at any Windowed Mode or Borderless Resolution. **Fullscreen Mode not supported.**  
-  - Works on the Arcade.(Custom Game Modes)  
+  - Works on all gamemodes. 
 
+Notes:  
 
-Notes:
-
-Do not have your mouse hover over where the accept and decline buttons will appear.    
-Enabling the Dota 2 Setting **"Bring to foreground when match found"** will allow you to auto accept games, even if you have alt tabbed out of Dota 2.  
-Window Scale must be set to default.   
+  - Do not have your mouse hover over where the accept and decline buttons will appear.  
+  - Enabling the Dota 2 Setting **"Bring to foreground when match found"** will allow you to auto accept games, even if you have alt tabbed out of Dota 2.  
+  - Window Scale must be set to default.  
 
   ---
 
