@@ -16,7 +16,7 @@ This is a simple tool that automatically accepts the game when dota manages to f
   - Works on the Arcade.(Custom Game Modes)  
 
 
-**Notes**
+Notes:
 
 Do not have your mouse hover over where the accept and decline buttons will appear.    
 Enabling the Dota 2 Setting **"Bring to foreground when match found"** will allow you to auto accept games, even if you have alt tabbed out of Dota 2.  
