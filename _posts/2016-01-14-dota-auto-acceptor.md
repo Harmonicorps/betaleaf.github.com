@@ -7,9 +7,10 @@ comments: true
 categories: [Game Tools]
 tags: [Dota 2,Download]
 ---
+Video Demonstration
 <iframe src="https://www.youtube.com/embed/KQzyCS31Zg0?autoplay=1" width="480" height="270" frameborder="0" allowfullscreen="allowfullscreen"></iframe>  
 
-This is a simple tool that automatically accepts the game when dota manages to find one.  
+This is a simple tool that automatically accepts any matches found.  
 
   - Starts enabled. Press F7 to toggle on/off. 
     - Beeps once when off <i class="fa fa-toggle-off"/>.  
