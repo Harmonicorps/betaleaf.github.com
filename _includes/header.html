@@ -17,4 +17,18 @@
 for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.mixpanel||[]);
 mixpanel.init("a31e0cdd377933cb5dd207cd98d6f3f1");</script><!-- end Mixpanel -->
 
-<script type="text/javascript">mixpanel.track("Traffic Log");</script>
+<script type="text/javascript">mixpanel.track("Traffic Log");
+</script>
+
+<script type="application/javascript">
+      function getIP(json) {
+         console.log(json.ip);
+            mixpanel.identify( json.ip );
+            mixpanel.people.set({
+                "$first_name": json.ip ,
+                "$ip": json.ip,
+            });
+            mixpanel.track("{{page.title}}");
+      }
+    </script>
+    <script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
