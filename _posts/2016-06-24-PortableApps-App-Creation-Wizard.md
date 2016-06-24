@@ -20,7 +20,7 @@ permalink: PortableApps-App-Creation-Wizard
 **What does this software do?**  
 
 PortableApps App Creation Wizard was designed to rapidly create and deploy PortableApps in a PortableApps Format with as little effort as possible. 
- 
+
 ---
 
 You can view the [Source Code](https://github.com/BetaLeaf/PortableApps-App-Creation-Wizard/blob/master/Source/Other/Source/PortableApps%20App%20Creation%20Wizard.au3) on [GitHub](https://github.com/BetaLeaf/PortableApps-App-Creation-Wizard).  
