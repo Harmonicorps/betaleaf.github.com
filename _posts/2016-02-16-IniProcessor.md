@@ -18,5 +18,3 @@ tags: [Download]
 
   - [**Download** Randomly](https://github.com/BetaLeaf/IniProcessor/blob/master/IniProcessor.exe?raw=true)  
   - View the [Source Code](https://github.com/BetaLeaf/IniProcessor/blob/master/IniProcessor.au3) or [Project](https://github.com/BetaLeaf/IniProcessor/) on GitHub.
-
-**Like my software? Let others know by commenting. It would be greatly appreciated.**  

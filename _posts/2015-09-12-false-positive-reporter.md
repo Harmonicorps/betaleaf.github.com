@@ -20,5 +20,3 @@ tags: [Download]
   - [**Download** False Positive Reporter](https://github.com/BetaLeaf/False-Positive-Reporter/blob/master/FPR.exe?raw=true) (FPR.exe)
   - [**Download** Config Tool](https://github.com/BetaLeaf/False-Positive-Reporter/blob/master/Config%20FPR.exe?raw=true)
   - View the [Source Code](https://github.com/BetaLeaf/False-Positive-Reporter/blob/master/FPR.au3) or [Project](https://github.com/BetaLeaf/False-Positive-Reporter) on GitHub.
-
-**Like my software? Let others know by commenting. It would be greatly appreciated.**  

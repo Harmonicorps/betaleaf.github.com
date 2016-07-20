@@ -15,8 +15,6 @@ Replenish all your ammo quickly by facing the ammo machine and pressing a hotkey
   - [**Download** Borderlands 2 OZ Helper](https://github.com/BetaLeaf/Borderlands-2-OZ-Helper/blob/master/Borderlands%202%20OZ%20Helper.exe?raw=true)  
   - View the [Source Code](https://github.com/BetaLeaf/Borderlands-2-OZ-Helper/blob/master/Borderlands%202%20OZ%20Helper.au3) or [Project](https://github.com/BetaLeaf/Borderlands-2-OZ-Helper) on GitHub.
 
-**Like my software? Let others know by commenting. It would be greatly appreciated.**  
-
 ---
 
 **How to Set INI:**  

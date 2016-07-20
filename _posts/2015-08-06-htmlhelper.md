@@ -28,5 +28,3 @@ Note: The A Tag has a special Function that makes use of the clipboard. Store yo
 
   - [**Download** HTMLHelper](https://github.com/BetaLeaf/HTMLHelper/blob/master/HTMLHelper.exe?raw=true)  
   - View the [Source Code](https://github.com/BetaLeaf/HTMLHelper/blob/master/HTMLHelper.au3) or [Project](https://github.com/BetaLeaf/HTMLHelper) on GitHub.
-
-**Like my software? Let others know by commenting. It would be greatly appreciated.**  

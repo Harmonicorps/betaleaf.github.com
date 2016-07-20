@@ -21,5 +21,3 @@ tags: [Dota 2,Download]
 
   * **Download [MeepoHelper](https://github.com/BetaLeaf/MeepoHelper/blob/master/MeepoHelper.exe?raw=true)**  
   * View the [Source Code](https://github.com/BetaLeaf/MeepoHelper/blob/master/MeepoHelper.au3) or [Project](https://github.com/BetaLeaf/MeepoHelper) on GitHub.  
-
-**Like my software? Let others know by commenting. It would be greatly appreciated.**  
