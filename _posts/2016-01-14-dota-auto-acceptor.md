@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dota Auto Acceptor
-date: 2016-01-14 11:10
+date: 2016-07-23 04:44
 author: BetaLeaf
 comments: true
 categories: [Game Tools]
@@ -12,11 +12,11 @@ Video Demonstration
 
 This is a simple tool that automatically accepts any matches found.  
 
-  - Starts enabled. Press F7 to toggle on/off. 
+  - Starts enabled. Press F7 to toggle on/off.  
     - Beeps once when off <i class="fa fa-toggle-off"/>.  
-    - Beeps twice when on <i class="fa fa-toggle-on"/>.
+    - Beeps twice when on <i class="fa fa-toggle-on"/>.  
   - Works at any Windowed Mode or Borderless Resolution. **Fullscreen Mode not supported.**  
-  - Works on all gamemodes. 
+  - Works on all gamemodes.  
 
 Notes:  
 
