@@ -26,5 +26,5 @@ Notes:
 
   ---
 
-  - [<i class="fa fa-download"></i> AutoAcceptor](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/AutoAcceptor.exe?raw=true)  
+  - [<i class="fa fa-download"></i> Download AutoAcceptor](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/AutoAcceptor.exe?raw=true)  
   - View the [<i class="fa fa-file-code-o"></i> Source Code](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/AutoAcceptor.au3) or [<i class="fa fa-code-fork"></i> Project](https://github.com/BetaLeaf/Dota-2-Game-Tools) on <i class="fa fa-github"></i> GitHub.  

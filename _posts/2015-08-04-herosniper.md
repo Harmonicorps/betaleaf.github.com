@@ -18,8 +18,9 @@ The moment character select becomes available, your hero will be automatically s
 **Features:**  
 
   - Press F6 to Choose your hero.  
+  - Press F7 to toggle on/off auto accepting of matches.  
   - Works at any Windowed Mode or Borderless Resolution.(Untested at uncommon resolutions)  
-  - Works on the Arcade.(Custom Game Modes)  
+  - Works on the Arcade Game Modes that use the default Character Select UI. (Sorry AAR players)
 
  ---
 
