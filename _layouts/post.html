@@ -10,9 +10,7 @@ layout: layout
 	</div>
 	<div class="blog-title">
 		<h4>
-		{{ page.date | date: "%B %e, %Y" }}
-			&nbsp;&nbsp;
-			{{ page.time | date: "%B %e, %Y" }}
+		{{ page.date }}
 			&nbsp;&nbsp;
 			{% for tag in page.tags %}
 			 <span class="label label-success">{{ tag }}</span>
