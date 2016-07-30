@@ -32,5 +32,5 @@ Notes:
   
  ---
 
-  - [<i class="fa fa-download"></i> Download Instant Picker](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/Instant Picker.exe?raw=true)  
+  - [<i class="fa fa-download"></i> Download Instant Picker](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/InstaPicker.exe?raw=true)  
   - View the [Source Code](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/Instant Picker.au3) or [Project](https://github.com/BetaLeaf/Dota-2-Game-Tools) on GitHub.
