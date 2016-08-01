@@ -6,7 +6,7 @@ author: BetaLeaf
 comments: true
 categories: [Utilities]
 tags: [Download]
-permalink: Reduce-Memory
+permalink: reduce-memory
 ---
 
 This program reduces the working set memory of programs. It can reduce multiple processes and PIDs and the interval can be set to a cooldown of your liking. 
