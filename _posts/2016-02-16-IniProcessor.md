@@ -6,6 +6,7 @@ author: BetaLeaf
 comments: true
 categories: [Utilities]
 tags: [Download]
+permalink: IniProcessor
 ---
 **How to use:**  
 
