@@ -17,5 +17,5 @@ Default Processes: chrome.exe;explorer.exe;svchost.exe;MapleStory.exe
 
 ---
 
-  - [<i class="fa fa-download"></i> Download HTMLHelper](https://github.com/BetaLeaf/Reduce-Memory/releases)  
+  - [<i class="fa fa-download"></i> Download Reduce-Memory](https://github.com/BetaLeaf/Reduce-Memory/releases)  
   - View the [<i class="fa fa-file-code-o"></i> Source Code](https://github.com/BetaLeaf/Reduce-Memory/blob/master/Reduce%20Memory.au3) or [<i class="fa fa-code-fork"></i> Project](https://github.com/BetaLeaf/Reduce-Memory) on GitHub.
