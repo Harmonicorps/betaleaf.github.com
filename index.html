@@ -10,6 +10,18 @@ layout: home
 	  <h3>I'm <strong><span Title="{{ site.authorRN }}">{{ site.author }}</span></strong>, a Software Engineer.</h3>
 	  <h3>I love all things computer science.</h3>
 	  <h3>Have a look at some of my working <a href="{{ site.baseurl }}/projects.html"> projects</a>.</h3><br>
-	  <iframe src="http://discordi.deliriousdrunkards.com/render?id=165627053029326848&theme=none&join=true&abc=false&showall=false&toggle=false&shownick=false" width="350px" height="350px" frameborder="0"></iframe>
-	</div>
+	  <script type="text/javascript" src="http://discord.deliriousdrunkards.com/discord.min.js"></script>
+		<script type="text/javascript">
+			discordWidget.init({
+			serverId: '165627053029326848',
+			title: 'BetaLeaf.net',
+			join: true,
+			alphabetical: false,
+			theme: 'none',
+			hideChannels: ,
+			showAllUsers: true,
+			allUsersDefaultState: true
+    });
+    discordWidget.render();
+</script>
 </section>
