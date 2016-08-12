@@ -90,7 +90,7 @@ body {
 .container {
   width: auto;
   max-width: 800px;
-  text-align: center;
+  text-align: right;
 }
 .container .text-muted {
   margin: 20px 0;
