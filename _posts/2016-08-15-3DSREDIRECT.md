@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Redirecting...
 permalink: contact/3ds
 ---
