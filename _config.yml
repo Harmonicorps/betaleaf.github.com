@@ -10,7 +10,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: https://betaleaf.net
-baseurl: betaleaf.net
+coreurl: betaleaf.net
 title: BetaLeaf
 author: BetaLeaf
 authorRN: Jeff Savage
