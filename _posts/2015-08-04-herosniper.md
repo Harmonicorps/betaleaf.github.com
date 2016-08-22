@@ -8,7 +8,7 @@ categories: [Game Tools]
 tags: [Dota 2, Download]
 permalink: dota-instapicker
 ---
-<iframe width="480" height="270" src="https://www.youtube.com/embed/VicXUZqsE4o?autoplay=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/VicXUZqsE4o" frameborder="0" allowfullscreen></iframe>
 
 ### Always get the Hero you want to play with this Dota 2 Instant Picker.(Formerly HeroSniper)  
 
@@ -33,4 +33,4 @@ Notes:
  ---
 
   - [<i class="fa fa-download"></i> Download Instant Picker](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/InstaPicker.exe?raw=true)  
-  - View the [<i class="fa fa-file-code-o"></i> Source Code](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/Instant Picker.au3) or [<i class="fa fa-code-fork"></i> Project](https://github.com/BetaLeaf/Dota-2-Game-Tools) on GitHub.
+  - View the [<i class="fa fa-file-code-o"></i> Source Code](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/InstaPicker.au3) on [<i class="fa fa-github"></i> GitHub](https://github.com/BetaLeaf/Dota-2-Game-Tools).

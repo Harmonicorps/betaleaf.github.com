@@ -18,4 +18,4 @@ MapleMods Updater will help you patch MapleStory with the following mods:
 ---
   
   - [<i class="fa fa-download"></i> Download MapleMods Updater](https://github.com/BetaLeaf/MapleMods-Updater/blob/master/MapleMods%20Updater.exe?raw=true)  
-  - You can view the [<i class="fa fa-file-code-o"></i> Source Code](https://github.com/BetaLeaf/MapleMods-Updater/blob/master/MapleMods%20Updater.au3) on [<i class="fa fa-code-fork"></i> GitHub](https://github.com/BetaLeaf/MapleMods-Updater).
+  - You can view the [<i class="fa fa-file-code-o"></i> Source Code](https://github.com/BetaLeaf/MapleMods-Updater/blob/master/MapleMods%20Updater.au3) on [<i class="fa fa-github"></i> GitHub](https://github.com/BetaLeaf/MapleMods-Updater).

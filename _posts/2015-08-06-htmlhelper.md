@@ -26,5 +26,5 @@ Note: The A Tag has a special Function that makes use of the clipboard. Store yo
 
 ---
 
-  - [**Download** HTMLHelper](https://github.com/BetaLeaf/HTMLHelper/blob/master/HTMLHelper.exe?raw=true)  
-  - View the [Source Code](https://github.com/BetaLeaf/HTMLHelper/blob/master/HTMLHelper.au3) or [Project](https://github.com/BetaLeaf/HTMLHelper) on GitHub.
+  - [<i class="fa fa-download"></i> Download HTMLHelper](https://github.com/BetaLeaf/HTMLHelper/blob/master/HTMLHelper.exe?raw=true)  
+  - View the [<i class="fa fa-file-code-o"></i> Source Code](https://github.com/BetaLeaf/HTMLHelper/blob/master/HTMLHelper.au3) on [<i class="fa fa-github"></i> GitHub](https://github.com/BetaLeaf/HTMLHelper).

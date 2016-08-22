@@ -9,9 +9,10 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: https://betaleaf.net
+url: http://localhost:3000
 title: BetaLeaf
 author: Jeff Savage
+iauthor: BetaLeaf
 description: Personal blog
 avatar: Avatar.png
 email: BetaLeaf@gmail.com

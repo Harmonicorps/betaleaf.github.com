@@ -8,12 +8,11 @@ categories: [Tutorials]
 tags: [Fix, Windows 10]
 permalink: how-to-enable-app-notifications-when-managed-by-your-organization
 ---
-1. Download and Open the Registry Key to Import. [Click Here to Download](../assets/dl/appnotification.reg)
-2. Click Yes. (See Images)
-3. Shutdown and reboot your computer.
+1. [<i class="fa fa-download"></i> Download](/static/dl/appnotification.reg) and open the registry key to import.  
+2. Click Yes. (See image below)
+3. Reboot your computer.
 
-**Images:**  
-2. ![Screenshot](../I/42wx5JC.png)
+![Screenshot](/static/img/42wx5JC.png)
 
 <strong>Keys to Import:</strong>  
 ```[HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\CurrentVersion\PushNotifications]```  

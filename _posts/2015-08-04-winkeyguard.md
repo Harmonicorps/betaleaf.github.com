@@ -15,5 +15,5 @@ tags: [Download]
 
 ---
 
-  - [**Download** WinKeyGuard](https://github.com/BetaLeaf/WinKeyGuard/blob/master/WinKeyGuard.exe?raw=true)  
-  - View the [Source Code](https://github.com/BetaLeaf/WinKeyGuard/blob/master/WinKeyGuard.au3) or [Project](https://github.com/BetaLeaf/WinKeyGuard) on GitHub.
+  - [<i class="fa fa-download"></i> Download WinKeyGuard](https://github.com/BetaLeaf/WinKeyGuard/blob/master/WinKeyGuard.exe?raw=true)  
+  - View the [<i class="fa fa-file-code-o"></i> Source Code](https://github.com/BetaLeaf/WinKeyGuard/blob/master/WinKeyGuard.au3) on [<i class="fa fa-github"></i> GitHub](https://github.com/BetaLeaf/WinKeyGuard).

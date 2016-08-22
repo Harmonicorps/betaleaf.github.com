@@ -8,7 +8,7 @@ categories: [Game Tools]
 tags: [Dota 2,Download]
 ---
 Video Demonstration
-<iframe src="https://www.youtube.com/embed/KQzyCS31Zg0?autoplay=1" width="480" height="270" frameborder="0" allowfullscreen="allowfullscreen"></iframe>  
+<iframe src="https://www.youtube.com/embed/KQzyCS31Zg0" width="480" height="270" frameborder="0" allowfullscreen="allowfullscreen"></iframe>  
 
 This is a simple tool that automatically accepts any matches found.  
 
@@ -27,4 +27,4 @@ Notes:
   ---
 
   - [<i class="fa fa-download"></i> Download AutoAcceptor](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/AutoAcceptor.exe?raw=true)  
-  - View the [<i class="fa fa-file-code-o"></i> Source Code](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/AutoAcceptor.au3) or [<i class="fa fa-code-fork"></i> Project](https://github.com/BetaLeaf/Dota-2-Game-Tools) on <i class="fa fa-github"></i> GitHub.  
+  - View the [<i class="fa fa-file-code-o"></i> Source Code](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/AutoAcceptor.au3) on [<i class="fa fa-github"></i> GitHub](https://github.com/BetaLeaf/Dota-2-Game-Tools).  

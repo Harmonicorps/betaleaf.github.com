@@ -22,10 +22,10 @@ permalink: MeepoHelper
 You have 2 options:  
 
 Download the precompiled version:  
-1. Run [MeepoHelper.exe](https://github.com/BetaLeaf/MeepoHelper/releases/)  
+1. Run [<i class="fa fa-download"></i> MeepoHelper.exe](https://github.com/BetaLeaf/MeepoHelper/releases/)  
 
 or compile it yourself by do the following:  
-1. Download the [Source Code](https://github.com/BetaLeaf/MeepoHelper/releases/)  
+1. Download the [<i class="fa fa-file-code-o"></i> Source Code](https://github.com/BetaLeaf/MeepoHelper/releases/)  
 2. Download the Self Extracing Archive Version of Autoit. http://www.autoitscript.com/site/autoit/downloads/  
 3. Extract autoit-v3.zip into a new folder on your desktop. Then run the file .\install\SciTe\SciTe.exe in the extracted folder.  
 4. Click File > Open. Select the MeepoHelper.au3 file.  
