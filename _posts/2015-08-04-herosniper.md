@@ -12,8 +12,7 @@ permalink: dota-instapicker
 
 ### Always get the Hero you want to play with this Dota 2 Instant Picker.(Formerly HeroSniper)  
 
-Simply run the program, type the hero's name in the box, and start searching for a game.  
-The moment character select becomes available, your hero will be automatically selected and confirmed.  
+Simply run the program, type the hero's name in the box, and start searching for a game. The moment a game is found, it will  automatically be accepted and the moment character select becomes available, your hero will be automatically selected and confirmed.  
 
 **Features:**  
 
