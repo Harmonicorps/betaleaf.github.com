@@ -1,25 +1,31 @@
 <div class="social">
-	<h4>
-	{% if site.steam %}
-	  <span Title="Steam"><a href="http://steamcommunity.com/id/{{ site.steam }}"><i class="fa fa-steam"></i></a></span>
+<h4>
+    {% if site.phone %}
+    <span Title="Phone Number - {{ site.phone }}"><a href="tel:{{ site.phone}}"><i class="fa fa-phone"></i></a></span>
     {% endif %}
-    {% if site.github %}
-	  <span Title="GitHub"><a href="http://github.com/{{ site.github }}"><i class="fa fa-github"></i></a></span>
+    {% if site.sms %}
+    <span Title="Text Message - {{ site.sms }}"><a href="sms:{{ site.sms}}"><i class="fa fa-mobile"></i></a></span>
     {% endif %}
     {% if site.email %}
-	  <span Title="Email"><a href="mailto:{{ site.email}}"><i class="fa fa-envelope"></i></a></span>
+	  <span Title="Email - {{ site.email}}"><a href="mailto:{{ site.email}}"><i class="fa fa-envelope"></i></a></span>
     {% endif %}
-	{% if site.facebook %}
-	  <span Title="Facebook"><a href="http://fb.com/{{ site.facebook }}"><i class="fa fa-facebook"></i></a></span>
+    {% if site.facebook %}
+	  <span Title="Facebook - {{ site.facebook }}"><a href="http://fb.com/{{ site.facebook }}"><i class="fa fa-facebook"></i></a></span>
     {% endif %}
     {% if site.twitter %}
-	  <span Title="Twitter"><a href="http://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i></a></span>
+	  <span Title="Twitter - {{ site.twitter }}"><a href="http://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i></a></span>
+    {% endif %}
+    {% if site.steam %}
+	  <span Title="Steam - {{ site.steam }}"><a href="http://steamcommunity.com/id/{{ site.steam }}"><i class="fa fa-steam"></i></a></span>
+    {% endif %}
+    {% if site.github %}
+	  <span Title="GitHub - {{ site.github }}"><a href="http://github.com/{{ site.github }}"><i class="fa fa-github"></i></a></span>
     {% endif %}
     {% if site.linkedin %}
-	  <span Title="LinkedIn"><a href="http://linkedin.com/in/{{ site.linkedin }}"><i class="fa fa-linkedin"></i></a></span>
+	  <span Title="LinkedIn - {{ site.linkedin }}"><a href="http://linkedin.com/in/{{ site.linkedin }}"><i class="fa fa-linkedin"></i></a></span>
     {% endif %}
-	{% if site.stackoverflow %}
-	  <span Title="Stack Overflow"><a href="http://stackoverflow.com/{{ site.stackoverflow }}"><i class="fa fa-stack-overflow"></i></a></span>
+    {% if site.stackoverflow %}
+	  <span Title="Stack Overflow - {{ site.stackoverflow }}"><a href="http://stackoverflow.com/{{ site.stackoverflow }}"><i class="fa fa-stack-overflow"></i></a></span>
     {% endif %}
-	</h4>
+</h4>
 </div>
