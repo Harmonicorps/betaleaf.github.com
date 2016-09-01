@@ -16,6 +16,7 @@ MapleMods Updater will help you patch MapleStory with the following mods:
   - Remove Eileen Tips (Eileen in the Group/1-on-1 chat)  
   
 Updated for 175.2
+
 ---
   
   - [<i class="fa fa-download"></i> Download MapleMods Updater](https://github.com/BetaLeaf/MapleMods-Updater/blob/master/MapleMods%20Updater.exe?raw=true)  
