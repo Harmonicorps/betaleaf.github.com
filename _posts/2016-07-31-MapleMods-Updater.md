@@ -20,3 +20,4 @@ Updated for 175.2
   
   - [<i class="fa fa-download"></i> Download MapleMods Updater](https://github.com/BetaLeaf/MapleMods-Updater/blob/master/MapleMods%20Updater.exe?raw=true)  
   - You can view the [<i class="fa fa-file-code-o"></i> Source Code](https://github.com/BetaLeaf/MapleMods-Updater/blob/master/MapleMods%20Updater.au3) on [<i class="fa fa-github"></i> GitHub](https://github.com/BetaLeaf/MapleMods-Updater).
+  - Don't want to use the updater? Download the WZ files [HERE](https://github.com/BetaLeaf/betaleaf.github.com/releases/0)
