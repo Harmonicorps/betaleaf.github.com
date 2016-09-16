@@ -1,5 +1,5 @@
 ---
-layout: Page
+layout: 3ds
 title: My Business Card
 permalink: businesscard
 ---
