@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: agent
 title: My Pokemon TCG Database
 author: BetaLeaf
 comments: true
