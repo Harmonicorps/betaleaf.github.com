@@ -17,5 +17,4 @@ permalink: IniProcessor
 
 ---
 
-  - [<i class="fa fa-download"></i> Download Randomly](https://github.com/BetaLeaf/IniProcessor/blob/master/IniProcessor.exe?raw=true)  
-  - View the [<i class="fa fa-file-code-o"></i> Source Code](https://github.com/BetaLeaf/IniProcessor/blob/master/IniProcessor.au3) on [<i class="fa fa-github"></i> GitHub](https://github.com/BetaLeaf/IniProcessor/).
+<iframe src="{{ site.url }}/stats.html?username=BetaLeaf&repository=IniProcessor" width="100%" height="500" frameborder="0" scrolling="no"></iframe>  

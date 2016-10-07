@@ -11,5 +11,4 @@ CursorTimer is a simple timer that displays it's remaining time near your cursor
 
 ---
 
-  - [<i class="fa fa-download"></i> Download CursorTimer](https://github.com/BetaLeaf/CursorTimer/blob/master/CursorTimer.exe?raw=true)  
-  - View the [<i class="fa fa-file-code-o"></i> Source Code](https://github.com/BetaLeaf/CursorTimer/blob/master/CursorTimer.au3) on [<i class="fa fa-github"></i> GitHub](https://github.com/BetaLeaf/CursorTimer).
+<iframe src="{{ site.url }}/stats.html?username=BetaLeaf&repository=CursorTimer" width="100%" height="500" frameborder="0" scrolling="no"></iframe>  

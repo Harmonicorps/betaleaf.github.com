@@ -1,16 +1,19 @@
 ---
 layout: post
-title: Dota Auto Acceptor
+title: Dota 2 Auto Acceptor
 date: 2016-07-23 04:44
+description: A match auto acceptor for Dota 2. Automatically Accepts any matches found.
+keywords: Dota 2, Dota, Match Auto Acceptor, Match AutoAcceptor, Match, Auto, Acceptor, Dota 2 Match Auto Acceptor, Dota 2 Match AutoAcceptor, Dota Match Auto Acceptor, Dota Match AutoAcceptor, Automatic
 author: BetaLeaf
 comments: true
 categories: [Game Tools]
 tags: [Dota 2,Download]
+permalink: dota-auto-acceptor
 ---
-Video Demonstration
 <iframe src="https://www.youtube.com/embed/KQzyCS31Zg0" width="480" height="270" frameborder="0" allowfullscreen="allowfullscreen"></iframe>  
 
-This is a simple tool that automatically accepts any matches found.  
+
+### This is a simple tool that automatically accepts any matches found.  
 
   - Starts enabled. Press F7 to toggle on/off.  
     - Beeps once when off <i class="fa fa-toggle-off"/>.  
@@ -25,6 +28,5 @@ Notes:
   - Window Scale must be set to default.  
 
   ---
-
-  - [<i class="fa fa-download"></i> Download AutoAcceptor](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/AutoAcceptor.exe?raw=true)  
-  - View the [<i class="fa fa-file-code-o"></i> Source Code](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/AutoAcceptor.au3) on [<i class="fa fa-github"></i> GitHub](https://github.com/BetaLeaf/Dota-2-Game-Tools).  
+  
+  <iframe src="{{ site.url }}/stats.html?username=BetaLeaf&repository=Dota-2-Auto-Acceptor" width="100%" height="500" frameborder="0" scrolling="no"></iframe>  

@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Dota Instant Picker 
+title: Dota 2 Instant Picker 
 date: 2016-07-23 04:44
+description: An Instant Picker for Dota 2. Instantly picks any hero you want.
+keywords: Dota 2, Dota, Instant Picker, InstaPicker, Instant, Picker, Dota 2 Instant Picker, Dota 2 InstaPicker, Dota Instant Picker, Dota InstaPick
 author: BetaLeaf
 comments: true
 categories: [Game Tools]
@@ -27,9 +29,8 @@ Notes:
   - Works at any Windowed Mode or Borderless Resolution. **Fullscreen Mode not supported.**  
   - Do not have your mouse hover over where the accept and decline buttons will appear.  
   - Enabling the Dota 2 Setting **"Bring to foreground when match found"** will allow you to auto accept games, even if you have alt tabbed out of Dota 2.  
-  - Window Scale must be set to default.    
+  - Window Scale must be set to default.  
   
  ---
 
-  - [<i class="fa fa-download"></i> Download Instant Picker](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/InstaPicker.exe?raw=true)  
-  - View the [<i class="fa fa-file-code-o"></i> Source Code](https://github.com/BetaLeaf/Dota-2-Game-Tools/blob/master/InstaPicker.au3) on [<i class="fa fa-github"></i> GitHub](https://github.com/BetaLeaf/Dota-2-Game-Tools).
+<iframe src="{{ site.url }}/stats.html?username=BetaLeaf&repository=Dota-2-Instant-Pick" width="100%" height="500px" frameborder="0" scrolling="no"></iframe>  

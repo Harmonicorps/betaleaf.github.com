@@ -13,5 +13,4 @@ A utility to enable, disable, and configure the WiFi-Hotspot feature on Windows 
 
 ---
 
-  - [<i class="fa fa-download"></i> Download WiFi-Hotspot](https://github.com/BetaLeaf/WiFi-Hotspot/releases)  
-  - View the [<i class="fa fa-file-code-o"></i> Source Code](https://github.com/BetaLeaf/WiFi-Hotspot/releases) on [<i class="fa fa-github"></i> GitHub](https://github.com/BetaLeaf/WiFi-Hotspot).
+<iframe src="{{ site.url }}/stats.html?username=BetaLeaf&repository=WiFi-Hotspot" width="100%" height="550px" frameborder="0" scrolling="no"></iframe>  

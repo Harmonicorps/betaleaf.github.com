@@ -16,5 +16,4 @@ Feature List:
 
 ---
 
-  - [<i class="fa fa-download"></i> Download DotaReplayTool](https://github.com/BetaLeaf/DotaReplayTool/blob/master/DotaReplayTool.exe?raw=true)  
-  - View the [<i class="fa fa-file-code-o"></i> Source Code](https://github.com/BetaLeaf/DotaReplayTool/blob/master/DotaReplayTool.au3) on [<i class="fa fa-github"></i> GitHub](https://github.com/BetaLeaf/DotaReplayTool).
+<iframe src="{{ site.url }}/stats.html?username=BetaLeaf&repository=DotaReplayTool" width="100%" height="500" frameborder="0" scrolling="no"></iframe>  
