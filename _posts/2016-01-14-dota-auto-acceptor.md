@@ -10,8 +10,6 @@ categories: [Game Tools]
 tags: [Dota 2,Download]
 permalink: dota-auto-acceptor
 ---
-<iframe src="https://www.youtube.com/embed/KQzyCS31Zg0" width="480" height="270" frameborder="0" allowfullscreen="allowfullscreen"></iframe>  
-
 
 ### This is a simple tool that automatically accepts any matches found.  
 
@@ -29,4 +27,6 @@ Notes:
 
   ---
   
-  <iframe src="{{ site.url }}/stats.html?username=BetaLeaf&repository=Dota-2-Auto-Acceptor" width="100%" height="500" frameborder="0" scrolling="no"></iframe>  
+	[Video Demonstration](https://www.youtube.com/watch?v=KQzyCS31Zg0)  
+  
+	<iframe src="{{ site.url }}/stats.html?username=BetaLeaf&repository=Dota-2-Auto-Acceptor" width="100%" height="500" frameborder="0" scrolling="no"></iframe>  
