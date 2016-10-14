@@ -24,9 +24,9 @@ Notes:
   - Do not have your mouse hover over where the accept and decline buttons will appear.  
   - Enabling the Dota 2 Setting **"Bring to foreground when match found"** will allow you to auto accept games, even if you have alt tabbed out of Dota 2.  
   - Window Scale must be set to default.  
-
-  ---
   
-	[Video Demonstration](https://www.youtube.com/watch?v=KQzyCS31Zg0)  
+	---  
+	
+	<a href="https://www.youtube.com/watch?v=KQzyCS31Zg0">Video Demonstration</a>
   
 	<iframe src="{{ site.url }}/stats.html?username=BetaLeaf&repository=Dota-2-Auto-Acceptor" width="100%" height="500" frameborder="0" scrolling="no"></iframe>  

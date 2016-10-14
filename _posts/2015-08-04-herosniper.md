@@ -30,8 +30,8 @@ Notes:
   - Enabling the Dota 2 Setting **"Bring to foreground when match found"** will allow you to auto accept games, even if you have alt tabbed out of Dota 2.  
   - Window Scale must be set to default.  
   
- ---
+	---
 
-	[Video Demonstration](https://www.youtube.com/watch?v=VicXUZqsE4o)
+	<a href="https://www.youtube.com/watch?v=VicXUZqsE4o">Video Demonstration</a>
  
 	<iframe src="{{ site.url }}/stats.html?username=BetaLeaf&repository=Dota-2-Instant-Pick" width="100%" height="500px" frameborder="0" scrolling="no"></iframe>  
