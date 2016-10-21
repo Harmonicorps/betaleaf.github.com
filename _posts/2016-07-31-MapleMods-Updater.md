@@ -15,7 +15,7 @@ MapleMods Updater will help you patch MapleStory with the following mods:
   - Remove the MapleTips (the yellow tips in the chat log)  
   - Remove Eileen Tips (Eileen in the Group/1-on-1 chat)  
   
-Updated for 176.0 (Update 177 coming later today.)
+Updated for 177.0
 
 Mods out of date? Contact me using the social links above.
 
