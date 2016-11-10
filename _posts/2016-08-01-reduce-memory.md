@@ -17,4 +17,4 @@ Default Processes: chrome.exe;explorer.exe;svchost.exe;MapleStory.exe
 
 ---
 
-<iframe src="{{ site.url }}/stats.html?username=BetaLeaf&repository=Reduce-Memory" width="100%" height="550px" frameborder="0" scrolling="no"></iframe>  
+<iframe src="{{ site.url }}/stats.html?username=BetaLeaf&repository=Reduce-Memory" width="100%" height="550px" frameborder="0"></iframe>  
