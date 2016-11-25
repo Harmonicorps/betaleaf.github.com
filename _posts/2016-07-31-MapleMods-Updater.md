@@ -15,12 +15,12 @@ MapleMods Updater will help you patch MapleStory with the following mods:
   - Remove the MapleTips (the yellow tips in the chat log)  
   - Remove Eileen Tips (Eileen in the Group/1-on-1 chat)  
   
-Updated for 177.0
+Updated for 177
 
 Mods out of date? Contact me using the social links above.
 
 ---
   
-  - [<i class="fa fa-download"></i> Download MapleMods Updater](https://github.com/BetaLeaf/MapleMods-Updater/blob/master/MapleMods%20Updater.exe?raw=true)  
-  - You can view the [<i class="fa fa-file-code-o"></i> Source Code](https://github.com/BetaLeaf/MapleMods-Updater/blob/master/MapleMods%20Updater.au3) on [<i class="fa fa-github"></i> GitHub](https://github.com/BetaLeaf/MapleMods-Updater).
-  - Don't want to use the updater? Download the WZ files [HERE](https://github.com/BetaLeaf/betaleaf.github.com/releases/0)
+  - [<i class="fa fa-download"></i> Download MapleMods Patcher](https://github.com/BetaLeaf/betaleaf.github.com/releases/download/3/MapleMods.Install.exe) - This will patch your game with the above mods.  
+  - [<i class="fa fa-download"></i> Download MapleMods Reverter](https://github.com/BetaLeaf/betaleaf.github.com/releases/download/3/MapleMods.Revert.177.exe) - This will prepare MapleStory to receive the latest version.  
+  - [<i class="fa fa-download"></i> Download MapleMods Patcher](https://github.com/BetaLeaf/betaleaf.github.com/releases/download/3/MapleMods.Restore.exe) - This will restore MapleStory to a state where it can receive the latest version, in-case Reverter gives a fatal error.  
