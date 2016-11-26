@@ -1,7 +1,7 @@
-Social Links:
 <div class="social">
+<h4>
     {% if site.phone %}
-    <span Title="Phone Number - {{ site.phone }}"><a href="tel:{{ site.phone}}"><i class="fa fa-phone"></i></a></span>
+    Social Links: <span Title="Phone Number - {{ site.phone }}"><a href="tel:{{ site.phone}}"><i class="fa fa-phone"></i></a></span>
     {% endif %}
     {% if site.sms %}
     <span Title="Text Message - {{ site.sms }}"><a href="sms:{{ site.sms}}"><i class="fa fa-mobile"></i></a></span>
@@ -28,4 +28,5 @@ Social Links:
     {% if site.stackoverflow %}
 	  <span Title="Stack Overflow - {{ site.stackoverflow }}"><a href="http://stackoverflow.com/{{ site.stackoverflow }}"><i class="fa fa-stack-overflow"></i></a></span>
     {% endif %}
+</h4>
 </div>
