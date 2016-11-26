@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MapleMods Updater
+title: MapleMods
 date: 2016-09-13 20:55
 author: BetaLeaf
 comments: true
@@ -9,7 +9,7 @@ tags: [Download, MapleStory]
 permalink: MapleMods
 ---
 
-MapleMods Updater will help you patch MapleStory with the following mods:  
+MapleMods contains the following mods:  
   
   - Remove the Curse Filter (able to see swearing and other censored words)  
   - Remove the MapleTips (the yellow tips in the chat log)  
