@@ -1,0 +1,14 @@
+---
+layout: agent
+title: MapleStory Item Filter
+permalink: MSItemFilter
+comments: true
+---
+Ever get tired of picking up junk and tired of tossing them from your inventory?  
+I'll make you an item filter that will prevent it from being picked up.  
+
+For every $1 USD, you get to filter 50 items.
+The item filter will last the duration of the current patch.  
+When a new patch comes out, you will need to reorder your filter.
+
+[Click here to order.](https://shop.betaleaf.net/item/item-filter)
