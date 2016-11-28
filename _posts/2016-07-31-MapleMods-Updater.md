@@ -19,6 +19,8 @@ Updated for 177
 
 Mods out of date? Contact me using the social links above.
 
+As with all my mods, they are safe and undetectable.  
+
 ---
   
   - [<i class="fa fa-download"></i> Download MapleMods Patcher](https://github.com/BetaLeaf/betaleaf.github.com/releases/download/3/MapleMods.Install.exe) - This will patch your game with the above mods.  
