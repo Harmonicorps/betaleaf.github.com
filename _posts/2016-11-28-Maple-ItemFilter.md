@@ -11,7 +11,7 @@ For every $1 USD, you get to filter 50 items.
 The item filter will last the duration of the current patch.  
 When a new patch comes out, you will need to reorder your filter.  
 
-They say time is money. 
+They say time is money.  
 That means every second you spend tossing items is time you aren't making money.  
 Get your time back and order today.
 
