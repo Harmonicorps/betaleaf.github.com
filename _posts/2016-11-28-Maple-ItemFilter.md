@@ -5,7 +5,7 @@ permalink: MSItemFilter
 comments: true
 ---
 Ever get tired of picking up junk and tired of tossing them from your inventory?  
-I'll make you an item filter that will prevent it from being picked up.  
+I'll make you an item filter that will prevent them from being picked up in the first place.  
 
 For every $1 USD, you get to filter 50 items.  
 The item filter will last the duration of the current patch.  
