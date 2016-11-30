@@ -21,7 +21,7 @@ As with all my mods, they are safe and undetectable.
 
 ---  
 
-Latest (v178)
+Latest (v178):
 
   - [<i class="fa fa-download"></i> Download MapleMods Patcher](https://github.com/BetaLeaf/betaleaf.github.com/releases/download/3/MapleMods.Install.exe) - This will patch your game with the above mods.  
   - [<i class="fa fa-download"></i> Download MapleMods Reverter](https://github.com/BetaLeaf/betaleaf.github.com/releases/download/3/MapleMods.Revert.exe) - This will prepare MapleStory to receive the latest version.  
