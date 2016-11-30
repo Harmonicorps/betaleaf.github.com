@@ -15,7 +15,7 @@ MapleMods contains the following mods:
   - Remove the MapleTips (the yellow tips in the chat log)  
   - Remove Eileen Tips (Eileen in the Group/1-on-1 chat)  
   
-Updated for 177
+Updated for 178
 
 Mods out of date? Contact me using the social links above.
 
