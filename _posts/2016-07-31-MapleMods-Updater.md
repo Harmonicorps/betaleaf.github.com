@@ -14,8 +14,6 @@ MapleMods contains the following mods:
   - Remove the Curse Filter (able to see swearing and other censored words)  
   - Remove the MapleTips (the yellow tips in the chat log)  
   - Remove Eileen Tips (Eileen in the Group/1-on-1 chat)  
-  
-Updated for 178
 
 Mods out of date? Contact me using the social links above.
 
@@ -23,7 +21,7 @@ As with all my mods, they are safe and undetectable.
 
 ---  
 
-Latest
+Latest (v178)
 
   - [<i class="fa fa-download"></i> Download MapleMods Patcher](https://github.com/BetaLeaf/betaleaf.github.com/releases/download/3/MapleMods.Install.exe) - This will patch your game with the above mods.  
   - [<i class="fa fa-download"></i> Download MapleMods Reverter](https://github.com/BetaLeaf/betaleaf.github.com/releases/download/3/MapleMods.Revert.exe) - This will prepare MapleStory to receive the latest version.  
