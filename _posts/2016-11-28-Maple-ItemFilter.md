@@ -4,7 +4,7 @@ title: MapleStory Item Filter
 permalink: MSItemFilter
 comments: true
 ---
-Ever get tired of picking up junk and tired of tossing them from your inventory?  
+Ever get tired of picking up junk and tossing them from your inventory?  
 I'll make you an item filter that will prevent them from being picked up in the first place.  
 
 For every $1 USD, you will get a 50 item filter.  
