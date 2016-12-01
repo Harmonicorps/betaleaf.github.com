@@ -23,6 +23,8 @@ permalink: MeepoHelper
   
 ---  
 
+Want to keep this program free and up to date? Donate so I can continue developement. [Click here](https://shop.betaleaf.net/item/donate).  
+
 <iframe src="{{ site.url }}/stats.html?username=BetaLeaf&repository=meepohelper" width="100%" height="550px" frameborder="0" scrolling="no"></iframe>  
 
 
