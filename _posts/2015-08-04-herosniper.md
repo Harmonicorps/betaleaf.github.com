@@ -30,7 +30,9 @@ Notes:
   - Enabling the Dota 2 Setting **"Bring to foreground when match found"** will allow you to auto accept games, even if you have alt tabbed out of Dota 2.  
   - Window Scale must be set to default.  
   
-	---
+	---  
+	
+	Want to keep this program free and up to date? Donate so I can continue developement. [Click here](https://shop.betaleaf.net/item/donate).  
 
 	<a href="https://www.youtube.com/watch?v=VicXUZqsE4o">Video Demonstration</a>
  
