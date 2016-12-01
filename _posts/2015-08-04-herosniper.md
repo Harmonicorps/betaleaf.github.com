@@ -32,7 +32,7 @@ Notes:
   
 	---  
 	
-	Want to keep this program free and up to date? Donate so I can continue developement. [Click here](https://shop.betaleaf.net/item/donate).  
+	Want to keep this program free and up to date? [Donate so I can continue developement](https://shop.betaleaf.net/item/donate).  
 
 	<a href="https://www.youtube.com/watch?v=VicXUZqsE4o">Video Demonstration</a>
  
