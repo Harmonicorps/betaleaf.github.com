@@ -16,7 +16,7 @@ permalink: dota-auto-acceptor
   - Starts enabled. Press F7 to toggle on/off.  
     - Beeps once when off <i class="fa fa-toggle-off"/>.  
     - Beeps twice when on <i class="fa fa-toggle-on"/>.  
-  - Works at any Windowed Mode or Borderless Resolution. **Fullscreen Mode not supported.**  
+  - Works at any Windowed Mode or Borderless Resolution. **Fullscreen and OpenGL modes not supported.**  
   - Works on all gamemodes.  
 
 Notes:  
