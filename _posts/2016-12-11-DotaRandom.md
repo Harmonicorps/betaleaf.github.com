@@ -10,10 +10,10 @@ categories: [Game Tools]
 tags: [Dota 2,Download]
 permalink: DotaRandom
 ---
-## A Random Hero Generator for Dota. 
+## A Random Hero Generator for Dota.  
 
-Uses the Random.org API.
-Features all heroes, including the unreleased Monkey King. 
+Uses the Random.org API.  
+Features all heroes, including the unreleased Monkey King.  
   * If you happen to roll Monkey King and he hasn't been released yet, just reroll.  
 
 ---  
