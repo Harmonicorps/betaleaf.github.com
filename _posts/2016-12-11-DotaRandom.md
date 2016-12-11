@@ -14,7 +14,7 @@ permalink: DotaRandom
 
 With this tool, you will never get locked into a hero you can't play well again.    
 Features all heroes, including the unreleased Monkey King.  
-  * If you happen to roll Monkey King and he hasn't been released yet, just reroll.  
+* If you happen to roll Monkey King and he hasn't been released yet, just reroll.  
 
 ---  
 
