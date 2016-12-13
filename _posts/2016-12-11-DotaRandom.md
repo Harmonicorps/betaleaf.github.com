@@ -12,7 +12,7 @@ permalink: DotaRandom
 ---
 ### A Random Hero Generator for Dota. Uses the Random.org API.  
 
-With this tool, you will never get locked into a hero you can't play well again.  
+With this tool, you will never get locked into a hero you can't play well again. Simply run the program and it will tell you who to play. If you don't like the pick you were given, press ```ok``` to re-roll.  
 
 ---  
 
