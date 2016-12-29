@@ -1,6 +1,6 @@
  ---
 layout: page
-title: Cameyo FAQ
+title: Upload
 date: 2016-12-29 04:18
 author: BetaLeaf
 permalink: upload
