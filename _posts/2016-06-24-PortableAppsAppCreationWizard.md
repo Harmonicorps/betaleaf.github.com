@@ -5,7 +5,6 @@ date: 2016-06-24 2:00
 author: BetaLeaf
 comments: true
 categories: [Utilities]
-tags: [Download]
 permalink: PortableApps-App-Creation-Wizard
 ---
 

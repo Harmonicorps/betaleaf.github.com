@@ -7,7 +7,7 @@ keywords: Dota 2, Dota, Instant Picker, InstaPicker, Instant, Picker, Dota 2 Ins
 author: BetaLeaf
 comments: true
 categories: [Game Tools]
-tags: [Dota 2, Download]
+tags: [Dota 2]
 permalink: dota-instapicker
 ---
 

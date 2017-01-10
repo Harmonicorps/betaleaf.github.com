@@ -5,7 +5,6 @@ date: 2016-08-01 14:45
 author: BetaLeaf
 comments: true
 categories: [Utilities]
-tags: [Download]
 permalink: reduce-memory
 ---
 

@@ -7,7 +7,7 @@ description: An Instant Poof script for Meepo. Configurable, faster and reliable
 keywords: Meepo, Instant, Insta, Poof, Poofer, InstaPoof, Instant Poof, Meepo Instant Poof, Meepo InstaPoof
 comments: true
 categories: [Game Tools]
-tags: [Dota 2,Download]
+tags: [Dota 2]
 permalink: MeepoHelper
 ---
 ## An Instapoof script for Meepo  

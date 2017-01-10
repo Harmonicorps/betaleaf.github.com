@@ -5,7 +5,7 @@ date: 2015-12-03 22:23
 author: BetaLeaf
 comments: true
 categories: [Game Tools]
-tags: [Dota 2,Download]
+tags: [Dota 2]
 ---  
 ## A tool to move Replay Files to the proper folder.  
 Feature List:  

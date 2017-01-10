@@ -5,7 +5,6 @@ date: 2015-08-17 20:33
 author: BetaLeaf
 comments: true
 categories: [Game Tools]
-tags: [Download]
 ---
 **Features:**  
 Replenish all your ammo quickly by facing the ammo machine and pressing a hotkey. Default is Numpad2. (ReplenishAmmo)  

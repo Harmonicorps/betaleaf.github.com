@@ -5,7 +5,6 @@ date: 2015-12-24 01:40
 author: BetaLeaf
 comments: true
 categories: [Utilities]
-tags: [Download]
 ---
 CursorTimer is a simple timer that displays it's remaining time near your cursor. It beeps when its time has run out.  
 

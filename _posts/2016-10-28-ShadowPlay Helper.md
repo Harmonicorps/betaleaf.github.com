@@ -7,7 +7,6 @@ keywords: ShadowPlay, Shadow, Play, Replay, Tool, Helper, ShadowPlay Helper, Sha
 author: BetaLeaf
 comments: true
 categories: [Utilities]
-tags: [Download]
 permalink: ShadowPlay-Helper
 ---
 

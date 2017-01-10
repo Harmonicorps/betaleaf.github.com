@@ -5,7 +5,6 @@ date: 2015-08-06 10:59
 author: BetaLeaf
 comments: true
 categories: [Utilities]
-tags: [Download]
 ---
 ### HTMLHelper is an AutoIt Script that binds hotkeys to frequently used HTML Tags.  
 

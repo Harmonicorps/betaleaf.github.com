@@ -7,7 +7,7 @@ keywords: Dota 2, Dota, Match Auto Acceptor, Match AutoAcceptor, Match, Auto, Ac
 author: BetaLeaf
 comments: true
 categories: [Game Tools]
-tags: [Dota 2,Download]
+tags: [Dota 2]
 permalink: dota-auto-acceptor
 ---
 

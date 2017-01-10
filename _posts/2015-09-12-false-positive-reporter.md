@@ -5,7 +5,6 @@ date: 2015-09-12 01:01
 author: BetaLeaf
 comments: true
 categories: [Utilities]
-tags: [Download]
 ---
 ### Quickly submit false positive reports to antivirus vendors for whitelisting.  
 

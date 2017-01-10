@@ -5,7 +5,7 @@ date: 2016-09-13 20:55
 author: BetaLeaf
 comments: true
 categories: [Game Tools]
-tags: [Download, MapleStory]
+tags: [MapleStory]
 permalink: MapleMods
 ---
 

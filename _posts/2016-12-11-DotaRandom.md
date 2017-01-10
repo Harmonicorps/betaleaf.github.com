@@ -7,7 +7,7 @@ description: A Random Hero Generator for Dota. Uses the Random.org API.
 keywords: Dota 2, Dota, Random, Randomizer, Hero, Generator
 comments: true
 categories: [Game Tools]
-tags: [Dota 2,Download]
+tags: [Dota 2]
 permalink: DotaRandom
 ---
 ### A Random Hero Generator for Dota. Uses the Random.org API.  
