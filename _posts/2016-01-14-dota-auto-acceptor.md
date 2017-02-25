@@ -33,4 +33,26 @@ Notes:
 <script>
 var repository = "Dota-2-Auto-Acceptor"
 </script>
+<div class="container">
+        <div class="row">
+            <div class="col-md-4 col-md-offset-4">
+                <div class="form form-inline">
+                    <div class="form-group">
+                        <input style="display: none;" type="text" class="form-control" id="username" placeholder="Github username">
+                    </div>
+                    <div class="form-group">
+                        <input style="display: none;" type="text" class="form-control" id="repository" placeholder="Repository name">
+                    </div>
+                    <button style="display: none;" class="btn btn-primary" id="get-stats-button">Get the latest release stats!</button>
+                </div>
+            </div>
+        </div>       
+        <div class="row" id="stats-result">
+        </div>
+        <div id="loader-gif">
+            <img src="static/img/gif-load.gif">
+        </div>
+    </div>
+    <script type="text/javascript" src="static/js/stats.js"></script>
+    testline
 	<iframe src="{{ site.url }}/stats.html" width="100%" height="500" frameborder="0" scrolling="yes"></iframe>  
