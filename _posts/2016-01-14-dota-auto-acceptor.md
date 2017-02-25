@@ -22,7 +22,7 @@ permalink: dota-auto-acceptor
 Notes:  
 
   - Do not have your mouse hover over where the accept and decline buttons will appear.  
-  - Enabling the Dota 2 Setting **"Bring to foreground when match found"** will allow you to auto accept games, even if you have alt tabbed out of Dota 2.  
+  - Enabling the Dota 2 Setting **"Bring to foreground when match found"** will allow you to auto accept games, even if you have alt tabbed out of Dota 2.  
   - Window Scale must be set to default.  
   
 	---  
@@ -30,31 +30,7 @@ Notes:
 	Want to keep this program free and up to date? [Donate so I can continue developement](https://shop.betaleaf.net/item/donate).  
 	
 	<a href="https://www.youtube.com/watch?v=KQzyCS31Zg0">Video Demonstration</a>
-
 <script>
 var repository = "Dota-2-Auto-Acceptor"
 </script>
-
-<div class="container">
-        <div class="row">
-            <div class="col-md-4 col-md-offset-4">
-                <div class="form form-inline">
-                    <div class="form-group">
-                        <input style="display: none;" type="text" class="form-control" id="username" placeholder="Github username">
-                    </div>
-                    <div class="form-group">
-                        <input style="display: none;" type="text" class="form-control" id="repository" placeholder="Repository name">
-                    </div>
-                    <button style="display: none;" class="btn btn-primary" id="get-stats-button">Get the latest release stats!</button>
-                </div>
-            </div>
-        </div>       
-        <div class="row" id="stats-result">
-        </div>
-        <div id="loader-gif">
-            <img src="static/img/gif-load.gif">
-        </div>
-    </div>
-    <script type="text/javascript" src="static/js/stats.js"></script>
-    testline
 	<iframe src="{{ site.url }}/stats.html" width="100%" height="500" frameborder="0" scrolling="yes"></iframe>  
