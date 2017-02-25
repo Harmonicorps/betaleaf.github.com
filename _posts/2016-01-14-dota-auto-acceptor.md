@@ -30,9 +30,11 @@ Notes:
 	Want to keep this program free and up to date? [Donate so I can continue developement](https://shop.betaleaf.net/item/donate).  
 	
 	<a href="https://www.youtube.com/watch?v=KQzyCS31Zg0">Video Demonstration</a>
+
 <script>
 var repository = "Dota-2-Auto-Acceptor"
 </script>
+
 <div class="container">
         <div class="row">
             <div class="col-md-4 col-md-offset-4">
