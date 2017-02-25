@@ -160,8 +160,8 @@ $(function() {
             "&repository=" + $("#repository").val();
     });
 
-    var username = getQueryVariable("username");
-    var repository = getQueryVariable("repository");
+    var username = "BetaLeaf");
+    // var repository = getQueryVariable("repository");
 
     if(username != "" && repository != "") {
         $("#username").val(username);
