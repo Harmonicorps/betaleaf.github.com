@@ -33,4 +33,4 @@ Notes:
 <script>
 var repository = "Dota-2-Auto-Acceptor"
 </script>
-	<iframe src="{{ site.url }}/stats.html" width="100%" height="500" frameborder="0" scrolling="yes"></iframe>  
+	<iframe src="{{ site.url }}/stats.html&repository=Dota-2-Auto-Acceptor" width="100%" height="500" frameborder="0" scrolling="yes"></iframe>  
