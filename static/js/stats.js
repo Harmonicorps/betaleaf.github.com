@@ -161,7 +161,7 @@ $(function() {
     });
 
     var username = "BetaLeaf");
-    // var repository = getQueryVariable("repository");
+    var repository = getQueryVariable("repository");
 
     if(username != "" && repository != "") {
         $("#username").val(username);
