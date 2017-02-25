@@ -164,6 +164,7 @@ $(function() {
 	console.log($("#username"))
     var repository = getQueryVariable("repository");
 	console.log($("#repository"))
+	console.log("Try #1")
 
     if(username != "" && repository != "") {
         $("#username").val(username);
